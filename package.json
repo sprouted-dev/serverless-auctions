@@ -1,0 +1,11 @@
+{
+  "name": "serverless-auctions",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "auction-service",
+    "auth-service",
+    "notification-service"
+  ]
+}
